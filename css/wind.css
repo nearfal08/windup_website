@@ -82,7 +82,7 @@
 }
 
 .main-wrapper {
-    margin-top: 67px;
+    margin-top: 88px;
 }
 
 .page-banner {
@@ -110,7 +110,7 @@
 }
 
 .navbar-light .navbar-nav .nav-link {
-    padding: 20px 0px;
+    padding: 30px 0px;
 }
 
 .navbar-light .navbar-nav .nav-link:focus,
@@ -178,7 +178,7 @@ button:focus {
 
 @media (max-width: 991.98px) {
     .main-wrapper {
-        margin-top: 57px;
+        margin-top: 78px;
     }
 
     .active a {
@@ -212,4 +212,60 @@ button:focus {
 
 .navbar-light .navbar-nav .nav-link {
     color: rgba(0,0,0,.5) !important;
+}
+
+
+/* CURSOR CSS */
+.blinking-cursor { 
+  border-right: 2px solid black;
+  -webkit-animation: 1s blink step-end infinite;
+  -moz-animation: 1s blink step-end infinite;
+  -ms-animation: 1s blink step-end infinite;
+  -o-animation: 1s blink step-end infinite;
+  animation: 1s blink step-end infinite;
+}
+
+@keyframes "blink" {
+  from, to {
+    border-right: 2px solid transparent;
+  }
+  50% {
+    border-right: 2px solid black;
+  }
+}
+
+@-moz-keyframes blink {
+  from, to {
+    border-right: 2px solid transparent;
+  }
+  50% {
+    border-right: 2px solid black;
+  }
+}
+
+@-webkit-keyframes "blink" {
+  from, to {
+    border-right: 2px solid transparent;
+  }
+  50% {
+    border-right: 2px solid black;
+  }
+}
+
+@-ms-keyframes "blink" {
+  from, to {
+    border-right: 2px solid transparent;
+  }
+  50% {
+    border-right: 2px solid black;
+  }
+}
+
+@-o-keyframes "blink" {
+  from, to { 
+    border-right: 2px solid transparent;
+  }
+  50% {
+    border-right: 2px solid black;
+  }
 }

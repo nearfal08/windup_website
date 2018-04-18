@@ -23,14 +23,14 @@ $title = 'Wind-Up Studio';
 <body>
     <?php
     include 'includes/nav.php';
-    ?>
-    <div class="main-wrapper"> 
+    ?> 
+    <div class="main-wrapper">  
     <?php
     include 'includes/slideshow.php';
     ?>  
     </div>
     <div class="page-banner">
-        <h1>Wind-Up News</h1>
+        <h1>Large Mouth News</h1>
     </div>
     <div class="container">
         <div class="section-wrapper">
@@ -47,7 +47,7 @@ $title = 'Wind-Up Studio';
         </div>
     </div>
     <div class="page-banner">
-        <h1>Wind-Up Games</h1>
+        <h1>Large Mouth Games</h1>
     </div>
     <div class="container">
         <div class="section-wrapper"> 

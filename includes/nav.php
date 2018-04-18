@@ -5,7 +5,9 @@
 ?>
 <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light nav-wind-up">
     <div class="container">
-        <a class="navbar-brand nav-link" href="">Wind-Up Studio</a>
+        <a class="navbar-brand nav-link center-text" href=""><img class="blinking-cursor" width="100" src="images/logo_test.png" />
+        <br/><span style="color: #4484F4; font-size: 16px;">Large</span> <span style="color: #4484F4; font-size: 16px;">Mouth</span> <span style="color: #4484F4; font-size: 16px;">Studio</span>
+        </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>

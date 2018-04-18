@@ -27,7 +27,7 @@ $title = 'About - Wind-Up Studio';
     ?>  
     </div> 
     <div class="page-banner">
-        <h1>About Wind-Up Studio</h1>
+        <h1>About Large Mouth</h1>
     </div>
     <div class="container">
         <div class="section-wrapper"> 

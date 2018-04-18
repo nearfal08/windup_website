@@ -27,7 +27,7 @@ $title = 'Endless Runner - Wind-Up Studio';
         <img class="d-block img-center" src="<?= $currentGame['banner_image'] ?>" alt="<?= $currentGame['image_alt'] ?>">
     </div>  
     <div class="page-banner">
-        <h1>Wind-Up Game: Endless Runner</h1>
+        <h1>Large Mouth Game: Endless Runner</h1>
     </div>
     <div class="container">
         <div class="section-wrapper"> 

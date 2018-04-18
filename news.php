@@ -25,7 +25,7 @@ $title = 'News - Wind-Up Studio';
     <div class="main-wrapper">  
     </div>
     <div class="page-banner">
-        <h1>Wind-Up News</h1>
+        <h1>Large Mouth News</h1>
     </div>
     <div class="container">
         <div class="section-wrapper">
